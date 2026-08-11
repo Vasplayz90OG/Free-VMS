@@ -1,5 +1,11 @@
-# ⚡ Free-VMS 1-Click Deployer
+ # ⚡ Free-VMS 1-Click Deployer
 
+                                                             https://img.shields.io/badge/ArizNodes-%E2%9A%A1_HVM_Engine-8b5cf6?style=for-the-badge&logo=github
+                                                             https://img.shields.io/badge/Type-1_Click_Deployer-blue?style=for-the-badge
+                                                             https://img.shields.io/badge/Platform-GitHub_Actions-black?style=for-the-badge&logo=githubactions
+                                                             https://img.shields.io/badge/Status-Leapfrog_Active-success?style=for-the-badge
+                                                             https://img.shields.io/badge/Cost-100%25_FREE-success?style=for-the-badge
+                                                             
 
 Warning: This script automates the creation of a GitHub repository to host a free VPS. To avoid risking your main GitHub account, it is highly recommended to use a burner/alternate GitHub account.
 
@@ -46,7 +52,10 @@ Auto-Leapfrog: The VPS auto-restarts every 6 hours to bypass GitHub's execution 
 
 How to run by one cmd  📜
 
-📎 ``` curl -s https://raw.githubusercontent.com/Vasplayz90/Free-VMS/main/deploy.sh | bash ```
 Auto-Backup: Any files saved in the repository folder are automatically committed and pushed to GitHub every 30 minutes.
 No Persistent Storage: When the runner restarts, files outside the repository folder are destroyed. Make sure to keep your files in the repo folder.
 Docker Access: The runner has sudo privileges, meaning you can install Docker and spawn containers inside your VPS!
+
+How to run by one cmd  📜
+
+📎 ``` curl -s https://raw.githubusercontent.com/Vasplayz90/Free-VMS/main/deploy.sh | bash ```
