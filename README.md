@@ -1,10 +1,10 @@
  # ⚡ Free-VMS 1-Click Deployer
 
-                                                             https://img.shields.io/badge/ArizNodes-%E2%9A%A1_HVM_Engine-8b5cf6?style=for-the-badge&logo=github
-                                                             https://img.shields.io/badge/Type-1_Click_Deployer-blue?style=for-the-badge
-                                                             https://img.shields.io/badge/Platform-GitHub_Actions-black?style=for-the-badge&logo=githubactions
-                                                             https://img.shields.io/badge/Status-Leapfrog_Active-success?style=for-the-badge
-                                                             https://img.shields.io/badge/Cost-100%25_FREE-success?style=for-the-badge
+                                                             !https://img.shields.io/badge/ArizNodes-%E2%9A%A1_HVM_Engine-8b5cf6?style=for-the-badge&logo=github
+                                                             !https://img.shields.io/badge/Type-1_Click_Deployer-blue?style=for-the-badge
+                                                             !https://img.shields.io/badge/Platform-GitHub_Actions-black?style=for-the-badge&logo=githubactions
+                                                             !https://img.shields.io/badge/Status-Leapfrog_Active-success?style=for-the-badge
+                                                             !https://img.shields.io/badge/Cost-100%25_FREE-success?style=for-the-badge
                                                              
 
 Warning: This script automates the creation of a GitHub repository to host a free VPS. To avoid risking your main GitHub account, it is highly recommended to use a burner/alternate GitHub account.
